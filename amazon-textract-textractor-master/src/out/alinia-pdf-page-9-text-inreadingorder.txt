@@ -1,0 +1,56 @@
+Texas Prior Authorization Program Clinical Edits
+Step 1
+Does the client have a
+No
+diagnosis of giardiasis
+Deny Request
+or cryptosporidiosis in
+the past 90 days?
+Yes
+Step 2
+Step 4
+Is the client > 12 years
+Is the client between 1
+No
+of age?
+and 3 years of age?
+No
+Step 6
+Is the client between 4
+and 11 years of age?
+Yes
+No
+Step 3
+Is the dose < 1000 mg
+Deny Request
+per day?
+Yes
+No
+Approve Request
+(30 days)
+Deny Request
+February 17, 2021
+Alinia (Nitazoxanide)
+Alinia (Nitazoxanide)
+Tablets
+Clinical Edit Criteria Logic Diagram
+Deny Request
+Approve Request
+(30 days)
+9
+Approve Request
+(30 days)
+Yes
+Step 5
+Is the dose 200 mg
+per day?
+Step 7
+Is the dose 400 mg
+per day?
+No
+Deny Request
+Copyright © 2021 Health Information Designs, LLC
+Yes
+Yes
+No
+Yes

@@ -1,0 +1,33 @@
+Texas Prior Authorization Program
+Clinical Edit Criteria
+Alinia (Nitazoxanide)
+Clinical Edit Information Included in this Document
+Drugs requiring prior authorization: the list of drugs requiring
+prior authorization for this clinical edit
+Prior authorization criteria logic: a description of how the prior
+authorization request will be evaluated against the clinical edit criteria
+Logic diagram: a visual depiction of the clinical edit criteria logic
+Supporting tables: a collection of information associated with the
+steps within the criteria (diagnosis codes, procedure codes, and
+therapy codes); provided when applicable
+References: clinical publications and sources relevant to this clinical
+Drugs requiring prior authorization: the list of drugs requiring
+prior authorization for this clinical edit
+Prior authorization criteria logic: a description of how the prior
+authorization request will be evaluated against the clinical edit criteria
+Logic diagram: a visual depiction of the clinical edit criteria logic
+Supporting tables: a collection of information associated with the
+steps within the criteria (diagnosis codes, procedure codes, and
+therapy codes); provided when applicable
+References: clinical publications and sources relevant to this clinical
+Note: Click the hyperlink to navigate directly to that section.
+Copyright © 2021 Health Information Designs, LLC
+Drug/Drug Class
+Alinia Oral Suspension
+rules
+edit
+Alinia Tablets
+rules
+edit
+February 17, 2021
+1

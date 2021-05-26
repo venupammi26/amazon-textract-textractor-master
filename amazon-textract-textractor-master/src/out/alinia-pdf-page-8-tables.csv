@@ -1,0 +1,10 @@
+Table
+"NOT_SELECTED, NOT_SELECTED, 1. Does the client have a diagnosis of giardiasis or cryptosporidiosis in the past 90 days? Yes (Go to #2) No (Deny) "
+"NOT_SELECTED, NOT_SELECTED, 2. Is the client greater than or equal to () 12 years of age? Yes (Go to #3) No (Go to #4) "
+"NOT_SELECTED, NOT_SELECTED, 3. Is the dose less than or equal to ( 1,000 mg per day? Yes (Approve - 30 days) No (Deny) "
+"NOT_SELECTED, NOT_SELECTED, 4. Is the client between 1 and 3 years of age? Yes (Go to #5) No (Go to #6) "
+"NOT_SELECTED, NOT_SELECTED, 5. Is the dose less than or equal to ( 200 mg per day? Yes (Approve - 30 days) No (Deny) "
+"NOT_SELECTED, NOT_SELECTED, 6. Is the client between 4 and 11 years of age? Yes (Go to #7) No (Deny) "
+"NOT_SELECTED, NOT_SELECTED, 7. Is the dose less than or equal to (<) 400 mg per day? Yes (Approve - 30 days) No (Deny) "
+
+

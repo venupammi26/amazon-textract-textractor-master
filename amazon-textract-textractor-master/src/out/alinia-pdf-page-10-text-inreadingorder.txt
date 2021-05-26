@@ -1,0 +1,17 @@
+Texas Prior Authorization Program Clinical Edits
+Step 1 (diagnosis of giardiasis or cryptosporidiosis)
+ICD-10 Code
+Description
+A071
+GIARDIASIS
+A072
+CRYPTOSPORIDIOSIS
+February 17, 2021
+Alinia (Nitazoxanide)
+Alinia (Nitazoxanide)
+Tablets
+Clinical Edit Criteria Supporting Tables
+10
+Required diagnosis: 1
+Look back timeframe: 90 days
+Copyright © 2021 Health Information Designs, LLC

@@ -1,0 +1,13 @@
+Key,KeyConfidence,Value,ValueConfidence
+Yes (Go to #6),93.0,NOT_SELECTED,93.0
+Yes (Go to #2),92.0,NOT_SELECTED,92.0
+Yes (Go to #3),90.5,NOT_SELECTED,90.5
+No (Deny),87.5,NOT_SELECTED,87.5
+Yes (Approve - 30 days),87.5,NOT_SELECTED,87.5
+Yes (Go to # +4),87.0,NOT_SELECTED,87.0
+No (Go to #5),86.0,NOT_SELECTED,86.0
+Yes (Approve - 30 days),81.5,NOT_SELECTED,81.5
+No (Deny),79.0,NOT_SELECTED,79.0
+No,76.0,NOT_SELECTED,76.0
+No,74.5,NOT_SELECTED,74.5
+No (Deny),63.5,j,63.5
